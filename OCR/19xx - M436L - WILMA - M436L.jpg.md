@@ -1,5 +1,5 @@
 # 19xx - M436L - WILMA - M436L.jpg
-Wiki page: [M436L](../../../PAGES/M436L.md)
+Wiki page: [M436L](../../../../PAGES/M436L.md)
 
 
 - **Year:** unknown (unknown)
@@ -153,7 +153,7 @@ S80
 
 ```json
 {
- "file": "Modules/METER/M436L/19xx - M436L - WILMA - M436L.jpg",
+ "file": "Modules/METER/M436L/PHOTOS/19xx - M436L - WILMA - M436L.jpg",
  "sha256": "51b7fca7e3062dab2c3161b59779d305388b193915337b98c28b8116477502e6",
  "kind": "module",
  "models": [

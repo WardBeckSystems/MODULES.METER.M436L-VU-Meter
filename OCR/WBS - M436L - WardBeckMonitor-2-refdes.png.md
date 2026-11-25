@@ -1,5 +1,5 @@
 # WBS - M436L - WardBeckMonitor-2-refdes.png
-Wiki page: [M436L](../../../PAGES/M436L.md)
+Wiki page: [M436L](../../../../PAGES/M436L.md)
 
 
 - **Year:** unknown (title block (read by eye))
@@ -165,7 +165,7 @@ Joott 8 Adgcc
 
 ```json
 {
- "file": "Modules/METER/M436L/WBS - M436L - WardBeckMonitor-2-refdes.png",
+ "file": "Modules/METER/M436L/MANUALS/WBS - M436L - WardBeckMonitor-2-refdes.png",
  "sha256": "6d6aa532358b3028585bf1f309c71f2da7ef369c6da60b28e82dc36236600c8e",
  "kind": "module",
  "models": [
