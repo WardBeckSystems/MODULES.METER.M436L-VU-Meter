@@ -1,5 +1,5 @@
 # WBS - M436L - WardBeckMonitor-2-refdes.png
-Wiki page: [M436L](../../../../PAGES/M436L.md)
+Wiki page: [M436L](../)
 
 
 - **Year:** unknown (title block (read by eye))

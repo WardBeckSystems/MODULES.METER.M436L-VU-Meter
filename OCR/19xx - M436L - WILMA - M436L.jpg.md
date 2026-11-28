@@ -1,5 +1,5 @@
 # 19xx - M436L - WILMA - M436L.jpg
-Wiki page: [M436L](../../../../PAGES/M436L.md)
+Wiki page: [M436L](../)
 
 
 - **Year:** unknown (unknown)

@@ -1,6 +1,6 @@
 # M436L VU Meter · Meter
 
-Ward-Beck Systems M436L. Wiki page: [M436L on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M436L.html)
+Ward-Beck Systems M436L. Wiki page: [M436L on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M436L-VU-Meter/)
 
 | Folder | What is in it | Files |
 |---|---|---|
